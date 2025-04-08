@@ -1,0 +1,6 @@
+keras
+tensorflow
+numpy
+matplotlib
+pillow
+pywin32
